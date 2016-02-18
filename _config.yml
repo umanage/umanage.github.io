@@ -42,7 +42,7 @@ titlecase: true
 # Site owner
 owner:
   name: Your Name
-  avatar: bio-photo.jpg
+  avatar: umanage-icon-300x300.png.jpg
   bio: "Describe your self."
   email:
   disqus-shortname:
