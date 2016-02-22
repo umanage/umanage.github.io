@@ -25,10 +25,7 @@ First, you need to add UManage to your app catalog. Folllow these steps:
 
 Now the UManage add-in can be added to any site by the site owner.
 
-1. Fork the [Minimal Mistakes repo](http://github.com/mmistakes/minimal-mistakes/fork).
-2. Clone the repo you just forked and rename it.
-3. [Install Bundler](http://bundler.io) `gem install bundler` and Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), etc)
-4. Update `config.yml`, add navigation, and replace demo posts and pages with your own. Full details below.
+1. On any site, click on the Site Content
 
 If you want to use Minimal Mistakes with an existing Jekyll site follow these steps:
 

@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            UManage
 locale:           en_US
 url:
 
@@ -42,7 +42,7 @@ titlecase: true
 # Site owner
 owner:
   name: Your Name
-  avatar: umanage-icon-300x300.png.jpg
+  avatar: umanage-icon-300x300.png
   bio: "Describe your self."
   email:
   disqus-shortname:
