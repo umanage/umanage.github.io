@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Theme Setup
+title: User's Guide
 modified: 2016-01-19
-excerpt: "Instructions on how to install and customize the Jekyll theme Minimal Mistakes."
+excerpt: "Instructions on how to optimally use UManage in a team or project."
 image:
   feature: sample-image-3.jpg
   credit: WeGraphics
@@ -13,9 +13,17 @@ image:
 
 ## Installation
 
-Minimal Mistakes now requires [Jekyll](http://jekyllrb.com/) 3.0. Make sure to run `bundle update` if you aren't on the latest version to update all gem dependencies.
+UManage can either be installed on Office 365, or on SharePoint 2013 on-premises.
 
-If you are creating a new Jekyll site using Minimal Mistakes follow these steps:
+### Office 365 Installation
+
+First, you need to add UManage to your app catalog. Folllow these steps:
+
+1. aaa
+2. bbb
+2. ccc
+
+Now the UManage add-in can be added to any site by the site owner.
 
 1. Fork the [Minimal Mistakes repo](http://github.com/mmistakes/minimal-mistakes/fork).
 2. Clone the repo you just forked and rename it.
